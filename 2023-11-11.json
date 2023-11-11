@@ -1,0 +1,26 @@
+{
+  "name": "David Holloway",
+  "age": 36,
+  "address": {
+    "street": "Zerga Street",
+    "city": "Riarha",
+    "state": "RI",
+    "zip": "43437"
+  },
+  "contact": {
+    "phone": "(847) 723-7936",
+    "servicePhone": "800921887"
+  },
+  "birthday": "1964-01-18T22:08:05.953Z",
+  "ip": "250.86.164.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Luhilvo ha hogerkec raanepa ek zure jedubukik jiozinek gu noibin fa ev jul. Pocmarzi em lejojit vactahu cubfubnuj virej hov nihpu pikib fojzalin re ohbutmad uv waz. Wi bahcav bi kowdek seca ru liw maekbu hiwi bihasis jik vunam piw nunewa li niswoc. Jeplak anuse la tu ga toozvi wurhilu owarariv sicle uba temlowpat jecfeare. Ve zig jojotki riar ze ocuweb zub li heeslas lav ipoido jumgig rov ifaere deper ohuizigi. Ejad puwsu orian sapjilac cahnora caj wal wu espirtas enajcor kubsu gisutgel poliv.",
+    "bio": "Culic lazesuaso piwmub ogha ihuf manluafe obewumrij paj osja nupuswu lih fomak alecomo pub vozpudu haepi ob kuzadecow. Neksabah gorkutvap imrig feil huub wewte lel gaah izolun opi adgepzop bez buh. Nogvedit dez tolagnor jowedur bokiduz heiksa esuaf iruso pakjoj pagemep mot vabawi gipce efbu dul wej difakre wot. Bohugmel jarcaldef gifiwires odtalci at tauko nov rahtate fehle joefu liflewhek tuwomifa."
+  },
+  "apiKey": "acf719826782037407db3d8116f377e566463f4c7e2ec3ccd13c38c1dc27ecff",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
