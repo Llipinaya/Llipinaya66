@@ -1,0 +1,26 @@
+{
+  "name": "George Lindsey",
+  "age": 40,
+  "address": {
+    "street": "Sahul Place",
+    "city": "Geankol",
+    "state": "TX",
+    "zip": "85058"
+  },
+  "contact": {
+    "phone": "(455) 264-5457",
+    "servicePhone": "800736878"
+  },
+  "birthday": "1991-06-29T00:20:05.194Z",
+  "ip": "207.246.199.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Decgicus sekunuz wesac hagen elduj amuzec tarijpo fi catsug lew sekcef du levkub kusub op olvukvi. Voavfe dutbecfe reiztet lojmu za kuwovjef momtabso jeuhvuz revfov kogcav ug viwozsod robozo azles witka ojmah. Urcuat vojro ra nasov ci ozevek oro imcu faekaiz ti dodomde zarpil opdigtes.",
+    "bio": "Ecotudta ju kiigpup azi uto po tu de telgowbos tiscuttu popkof amu hajeora. Opuco lab vojisen awoak uvipluc zizguer hosdifa fod la tilum muom wuthahe. Laju vukiv dopergi dukamda vinwi na sotihodas rubolev enalehoz pim nowun jedekip vizi unjicrob fag dahle. Ojom wicim da zesug pozwevagi wu hifohza fam wibkeezu nomta mizvuc ulunuiw du. Tujke inakaji ujebi noli beufca guhoc ulnaw vebat hahuf wapnob ku palij betpavip tenvowiz git ega. Fadofiku vov bob racset safdom hepahpav hezajpuh hemava je ruar ig jofe mujnagi de cinlesbom eteitafo zeh lizepok."
+  },
+  "apiKey": "0cbdfcb5598c2a5ee1aabd3cc63a1131eb46a5c35bcd759f99bccd604504d214",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
