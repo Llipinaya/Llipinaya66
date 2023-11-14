@@ -1,0 +1,26 @@
+{
+  "name": "Juan Padilla",
+  "age": 65,
+  "address": {
+    "street": "Metiji Path",
+    "city": "Ijkekfim",
+    "state": "SD",
+    "zip": "83699"
+  },
+  "contact": {
+    "phone": "(412) 814-4917",
+    "servicePhone": "800218128"
+  },
+  "birthday": "1991-01-11T15:30:14.944Z",
+  "ip": "114.251.129.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Todiiv roompa arawozij astugazi tanukovev totoshe aw rufsolak uv lambe aje woiha len fos. Nab robi zi foik so lorruse lenew jikug jum deima cimdoskum kupuvbid biirro fomucme biweni ciadegem deri. Ozkitu bup nikizu bu cafe ukdaci locen li lenwapak jero aputu pejig ji. Bezzimfuj po osimeli fokosce pu jijuhpoc siz sizu pido juz ikwu seili zebos.",
+    "bio": "Ikeseshib holi cotik hopur webosi fuzu okpeuz wirra hosuglo gutagwu rarnuk ce letehun ra beac hebittat rir weneg. Fu toade picta je todu gavzadde inoatosaf deg lebdu jeno fak huzkimlob. Bub iku woga sadbirje wije jevkig daub ivi we ibuud buwig haduz mozocci eszu towpore. Supucul daponu fuvvokaw malkev podoej fongerred lirugopa hopigib ese obocobew vuskepke ivluj lain. Ozo pilosak nosibbi sulebiven sod himcaec dute fidweh efahufov avugu sozpali wol rimruhim waibpa ugicocule tizevi."
+  },
+  "apiKey": "33046bd32cadee846270dbfc48c74e498ca285d96a8d9e6fabf43c4c7ebd7e2c",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
