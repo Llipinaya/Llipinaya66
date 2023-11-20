@@ -1,0 +1,26 @@
+{
+  "name": "Adam Jones",
+  "age": 40,
+  "address": {
+    "street": "Dafde Glen",
+    "city": "Ewoheku",
+    "state": "TN",
+    "zip": "32339"
+  },
+  "contact": {
+    "phone": "(628) 691-7355",
+    "servicePhone": "800326593"
+  },
+  "birthday": "1982-07-22T16:02:19.169Z",
+  "ip": "210.124.213.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Biwkec tuud zize mar busibzer ponfuzo ogbet riobi ziwi puri ju pammurlo risofzot. Ni wegkut nuuziwid sa hibticad focetgat hos pulo mo gupgamzam silwud lof. Bog ugelew pib rokleh epdod raprom dofto fib sanmaw wifozvez apa wazog caur.",
+    "bio": "Sihoh tok at varozti sitgorsa afa bi tah uja guhipdih vovov fa ujude. Leva fab bu cipgudiri ge lisco fa wuj pebne isaalce rovakuec kal vihlupkik pafvunacu reseg pak. Naazabo ebe wupefed feg tera kualese facepe tawfonpo mobkov mukeki huwik enizaweb izu cim."
+  },
+  "apiKey": "acfc624fba35ea16a0f428385b954f2e17934a0210ad28d5389e7b66acd11eeb",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
