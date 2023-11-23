@@ -1,0 +1,26 @@
+{
+  "name": "Billy Byrd",
+  "age": 53,
+  "address": {
+    "street": "Wormoh Heights",
+    "city": "Zusekhug",
+    "state": "IN",
+    "zip": "62814"
+  },
+  "contact": {
+    "phone": "(508) 219-9770",
+    "servicePhone": "800391398"
+  },
+  "birthday": "1992-04-14T20:35:28.122Z",
+  "ip": "190.247.153.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Gelji je ga jo ci rinimi cuuhikew ihenac ficahe wigaj menuppoh fifgivug jo kicijleb iwmeut kipsahil ja golodu. Denzasil nanvo ji izzeldit irpen wo fazi viekho tibujitu jiehjas jok esoce doat wo tonfosego duecrid odo fogjahen. Owguk va ugo atilouk agefotnoc anvan wez hesa wosecko bapa cazva pu deowdiw hazi ezujuodo feelauzo jongaer.",
+    "bio": "Cu no ezuuze dogep an haburpe miriruw lurapgem gan iba fal muno jup. Aki mukemlas ha ta wihim panatzi jorap kudov cito kihihuis eswas tek vegejla nirdaweca uge ih hifepola. Vew pipe fu cedge olosaeje wu zekdug pal haznis ihdi epu pejjeh kafupobu budik. Ravudzuf cenece fedmekti fuwal gipogor os eloke li woj um wiirila fucopoh vilwur. Lu obu goz ufa fur sowuh obfal povvapbik gepode rator kebvurto avfo wesfeemi. Tu voclehos cagegiji wucegoupu verijve faitpi ubfo adi amlic hodgihdu oge ob zevhof."
+  },
+  "apiKey": "111fbc9d19591ab4623f7a1ce715b8196f89035e8a241afa7f57b07a4c496b67",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
