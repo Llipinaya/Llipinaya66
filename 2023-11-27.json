@@ -1,0 +1,26 @@
+{
+  "name": "Joseph Stephens",
+  "age": 55,
+  "address": {
+    "street": "Paszed Lane",
+    "city": "Zuerzar",
+    "state": "MT",
+    "zip": "86617"
+  },
+  "contact": {
+    "phone": "(577) 474-6119",
+    "servicePhone": "800966572"
+  },
+  "birthday": "1998-01-11T12:36:32.090Z",
+  "ip": "243.186.127.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Tino nol hepcecfa zekeemi desuzavi bipi zep ruehsi tekna fan jofurru gaf nomob. Nehoek gusdinobi serhoh enuarci ake widorwuh mipaku ebe bacis mavdari wov ji. Cas pij fop udo tepev ciw bis ebaloer wami rohzejli vadatev zekfut meg pu.",
+    "bio": "Ja ogovuz dicifez ivji gumalmud veb bosvaf iludutwoz con tecgocaf eptegbok uj gajabked ulpu. Pe noc ojivawuj izuukijo nabfo mi hi ikeweceze me sad ave weative jum afnucu renieh ze. Ke jadosme goj levu ukopow ega isuli cope oskes obolijo vodgit elbub. Gudmos ime cic raccafjad ilahelij rew veh derne jiz ebcurges nut kelnazfov rerij bira neizamu. Opperjos rig na kapwihos sozam abwunniv sif re dev ruvi or ito liwhecfop jopir. Gien nezinil dehup al posnuh fa ro fuzho rupzekez ase hon gactojne demoko ezinaz vozew ba wufnar. Si vifsosbuz hebdeimi tez ce itjugsun mema ledbus getufufek ice nijesugu as odoempa."
+  },
+  "apiKey": "6c8f755fa6af3827e754c388c9cefacd2e04d016bc251a6719308d4c26788eaf",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
