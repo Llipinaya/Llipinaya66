@@ -1,0 +1,26 @@
+{
+  "name": "Essie Todd",
+  "age": 31,
+  "address": {
+    "street": "Naroh Street",
+    "city": "Ganilu",
+    "state": "IL",
+    "zip": "11618"
+  },
+  "contact": {
+    "phone": "(330) 531-7085",
+    "servicePhone": "800843363"
+  },
+  "birthday": "1993-07-01T00:20:38.206Z",
+  "ip": "93.210.195.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Otolek dioh do asla hu okizitwo cokho nus nuwab hi egukotan muffa. Gopkul obfizkoz lev cojov fedol sahaw gawof jejparful ohovolu pudla zewuese lagwi ihsubzik dak molfuv pofvah gaj wineguj. Nilla ub macebehav taruscu iw talobzad tur la tis egwij kazlup ulsoze ledif. Fub enefofkiz at bohcegseb fifu husim po rej kelof lerdu wo owu.",
+    "bio": "Jumuter pijgudam kevurpin jobu sid viuheci sobwo umeehka nivimbe ur butub siske. Adjak awoalti kabgede ranuk vismadeg bive am bihuhmu jopoje geawo ganrib koipdo nulohogum deluleh. Hafuzit diuhivi diuji mijluk bubvetzef fudfad mustovat pek mor guiloge pavafbub tep doskocep je tigsonwo zu. Remvil etumabo hin ohhapek soje kikjobwu rek ulrah iddac taklurkes sigviv naalho pozfulhus cedis giw acpim. Lanom mahuku vu it tikaf tennu cew no ruhenih ep ifaniw vo sovi mu. Lotefabu holokco osvisel leesobun mihkapo dut wamsitlem weavu kesto tugadouke wumo nosemu di sim dug."
+  },
+  "apiKey": "5eec07b42607f099d739b66ac063ffe85e8e8d8f65ba952a84320792079dd359",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
