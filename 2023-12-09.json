@@ -1,0 +1,26 @@
+{
+  "name": "Ella Martinez",
+  "age": 63,
+  "address": {
+    "street": "Cuhul Point",
+    "city": "Culokwu",
+    "state": "MT",
+    "zip": "42435"
+  },
+  "contact": {
+    "phone": "(374) 301-1452",
+    "servicePhone": "800566557"
+  },
+  "birthday": "1960-04-26T17:29:06.183Z",
+  "ip": "95.47.147.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Atjo ciosuob kipac fusvood lohu ihucatfo uz fowsipje idsu imo puka webweze. Puva dicrojan gi af jinopege rijafutiw icful ep cuuhutid ol mika suzpugaco. Sap gukenec mobaw zurma lepur ah ulgur voj ruhuhifi la wevboca itofepaf dev gis idaguj wi. Mecivep ujpelkuf bumbeg vukok ziuda dazgeg tombodfa bohezip gonip dagfen bekeliw mek razna bezogwoc. Ru domtizme efesuwus moc hoblab bap tudogni itduj tikapot ure opso eteowe riivwa bewken uj vu sipudo. Dohun gomjamuj okekej uzojavji vud zawikih copownet ho benwakje nu tom ribdo ge sac de nubwi.",
+    "bio": "Gejev sot kuho or cualjet murisi awuovi ohla neene nokfiis ut ekina nuwazor wiuseku haj hi imce ajzut. Dauwu pof begbowli ati heovnes kalsug ha udrag to fuva lutjobmu ho nikpobu huk ti med. Hev liunuowu vo le wov wojkas vog buhkel fopov sijadu ovevah bemguur nij ovumoludo asamumu."
+  },
+  "apiKey": "ac6fb40c10d0b978fcef28d5bbfd4db80fc90d976f009854a2d20b8e4a03fbac",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
