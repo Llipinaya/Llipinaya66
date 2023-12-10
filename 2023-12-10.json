@@ -1,0 +1,26 @@
+{
+  "name": "Robert Conner",
+  "age": 64,
+  "address": {
+    "street": "Rejtes Street",
+    "city": "Rutafjus",
+    "state": "IN",
+    "zip": "64731"
+  },
+  "contact": {
+    "phone": "(906) 216-5791",
+    "servicePhone": "800457383"
+  },
+  "birthday": "1974-03-22T11:41:49.255Z",
+  "ip": "10.101.224.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Si it bamnaw mi imaduj coco hum nuv une lolet gugupoh buwob pura pot jawsouzi. Wif wogmefar rusemri mudper pujud nosda getabcac im ahavoatu ogde lefoisa ru tolido por hawej mafuzha. Focud citjoago ateca olsode ovufasna mocne topki ci zoipwi dejof samoh mufzuvhiv romfodkac ziw zawgot.",
+    "bio": "Hov ep ewfabom ve mammumoz lifi caji im hi sirebopi mub rabu fevsiuge bi ir aha va. Udeh hoz maw kabokrow igrada fogu delrecze juphir cir avoimeze oko maf hor bob lensemal izavad viinoku bejegwon. Diku riddu subesbo hurej gewadnu hiz ribdo cu ovtij bendam ro circil feteov cab sunik su rimojpat. Obivukec pamjad ihfojhu salokel dawozdis si eraelu kav kacako to tuno hek av tuhana."
+  },
+  "apiKey": "31ba0fef0f3aee35e3a684479966a0556a3fb20d30ee6e26fa5affed082287b8",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
