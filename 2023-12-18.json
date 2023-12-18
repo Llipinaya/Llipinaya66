@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Briggs",
+  "age": 55,
+  "address": {
+    "street": "Pomah Glen",
+    "city": "Pigobhi",
+    "state": "RI",
+    "zip": "89674"
+  },
+  "contact": {
+    "phone": "(235) 422-5943",
+    "servicePhone": "800996497"
+  },
+  "birthday": "1971-09-30T18:34:12.166Z",
+  "ip": "18.112.185.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Dagubo du jiz nammoc awagiza za fikjeret do fiirko ga melkah sakujze duguja. Ef akjuc bewwodeci himadwag rilje sifot hod nienut binradtu zama ejefifu oda cukkeimu pocab osduhtir hupdelhet sornoen. Do mob vef jefluku mubus edwi zossode aju pukfikvos mow viccojol pudura efbulfor hu bomtozi am few. Gap iple giruzu fed efuruke rur fo li ukonaw eh mu ta. Hodoh vovoset eraki hicub ikazik wecovica memfot tewek da mus tir wam amuife.",
+    "bio": "Ba tu ej ci gez serucfim fusemu vuc kuba fabbubi riptetjew gahnu wim fa fi wurje. Doew la pufemgo taoki sesseh itovo soh gu hastece zo pedi iz lacotnim gijompol opeevu fifba emig. Kefwucron re siv kabwomak ekugi geskejhu lahub vufhacdi fu povaz de tahreef vihkoplo. Zelen nocjefiw laroja du jigafe eha sined gehbozper pih sentojkov hawuj osamevuw ci. Vetsin ko noftituj pa vealjew seklojeme taw deb mil lejcaz zetom voobu zezzi nofbucjeg."
+  },
+  "apiKey": "dd2f0ec12def126dfaf68f466de9e5e3c5a0849f76e3a461ceff6cdc42690e75",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
