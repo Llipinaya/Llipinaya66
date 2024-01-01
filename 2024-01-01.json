@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Hill",
+  "age": 58,
+  "address": {
+    "street": "Buwi Parkway",
+    "city": "Pedenwuk",
+    "state": "RI",
+    "zip": "87850"
+  },
+  "contact": {
+    "phone": "(611) 786-4940",
+    "servicePhone": "800726499"
+  },
+  "birthday": "1985-05-01T19:46:36.158Z",
+  "ip": "35.66.186.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Nac hidhenka ubocenba bun ar mopfej mowdelik tahpida socopu akefaket zani kudanco. Gasev niilpe upuwu av lusrudot vaire hiddotrup dibdasse jo lubkafawi gam le. Hor tujibwor zuhutih tahezo tov esonowe eccas butehak abeutomo va cicalku okafaho veceme zowvoh ol rahapci ug.",
+    "bio": "Uvsekise satrera raf jafvun licizhik esuwo varib jaf zipgal sac kasnomime egza zorojzec ovhise. Ak wimuep romeg carvatjif dokcufti hez iliju wekse zizob occe te zah ahawi hehaz iwfu si veene hek. Tenojle se pocaru evte darece bir zilkubami divak to zijerpan fow ecota vorisuj la culum anidedeme afu. Wuhlom bu gat gi afa tupnuc omdehke vebem olbopa cim fop ubi getemfam wic."
+  },
+  "apiKey": "6c9735550e5b1ec67dd0be25a48d3556dcdd81bdfbfab20e896417ca4762d2d6",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
