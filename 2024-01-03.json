@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Ramsey",
+  "age": 20,
+  "address": {
+    "street": "Sabdu Point",
+    "city": "Arbulhap",
+    "state": "KS",
+    "zip": "19242"
+  },
+  "contact": {
+    "phone": "(659) 763-7417",
+    "servicePhone": "800461122"
+  },
+  "birthday": "1977-10-16T22:56:25.646Z",
+  "ip": "251.195.193.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Olacahe hel secufa kiw huin mam raszidi dej owacuib ohi nob sohwu. Pifogba pizuko polrasoh itiesa abu gud luploeto sowges nikac hema awzejja gewage. Ecouvme eb gocime idabita vace tubozmef kavgugva renek of wugac cuubo owviz. Jep vurratap duvpu ak epakuwse hajbo jap to uzoura najujocev macagpe boucucor. Gidef cinhawaz fi ifa wowahgac licmiiso ira gatec lucmobnim pere idocuwoh viezu. Oke soh luvma wa udu lersitnek falodne guag kovihe pibec vitagza epibo nu nome caka sim. Repagkeh pefiw wow zij bu wuto ovaut re meb rawunun vuma vo puflan zetal.",
+    "bio": "Lumvagun reatguv wimehwub tahen korse ni omicac tiluc ulnetzi gepu ziiru barip zomfeviv bugbama otu rurod ro uba. Mav fi jidmu dibsogpi gud ew er ci hub joiziir tolrumzij venibob ewelev hijat zu. Nonak veuwe gadhek copfof pakuhka pe ufo vu gi obi jutvo ivcu ce."
+  },
+  "apiKey": "225c0fa11a239d8aca1731d69d812bdf0819167a9a1eca768b401ae0fbeea892",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
