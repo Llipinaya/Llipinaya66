@@ -1,0 +1,26 @@
+{
+  "name": "Russell Hale",
+  "age": 29,
+  "address": {
+    "street": "Keri Manor",
+    "city": "Kikahar",
+    "state": "MD",
+    "zip": "58513"
+  },
+  "contact": {
+    "phone": "(245) 316-6839",
+    "servicePhone": "800135983"
+  },
+  "birthday": "1971-06-25T20:17:07.430Z",
+  "ip": "135.147.217.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Haeca gub zurvi jadevuf diej jevudodi ohaifuke je vetgun jabapram demojte nebhezbuv. Wu wepu kohurcoh fug firracip niw nikegu seerge ijmawi aw jok bimib niatici tenof fim emozifmo ce fiz. Copvit wid itiri fotanpuz mad vatesu cuvasweg fefbuv ihlasow vuf puisihav wu kej. Em ligam pogudab ve in sidpagi uztewfob vattuscuj ma capsib wirviv ez sut.",
+    "bio": "Ijuez fa joana ut buwek nejaf pimig jo pizosasi otabiko tol cino vice. Jesucuw cu guwaawu hukelge ur beh uni cukah sijjorva vihi neh tesogip. Su soebe duvgeog soglir tedsuok riaha ameuzi ilehirabu ce kenuvtud tim mosrer redeg lecurpiw are mow ham igjuos."
+  },
+  "apiKey": "c501d7f9fd8ade9e1a2da4b811bc4c0e0c692ab41d734750bc5ddb808199e1b2",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
