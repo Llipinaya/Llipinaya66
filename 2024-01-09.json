@@ -1,0 +1,26 @@
+{
+  "name": "Brian McKenzie",
+  "age": 25,
+  "address": {
+    "street": "Kajuh Grove",
+    "city": "Tocwemu",
+    "state": "WI",
+    "zip": "42460"
+  },
+  "contact": {
+    "phone": "(387) 703-8646",
+    "servicePhone": "800797128"
+  },
+  "birthday": "1991-11-18T00:39:16.587Z",
+  "ip": "236.81.180.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuv ade zu lew hu simuzi saf etrefoh ko avgu um wopuhi kewud zu wijuv. Rif cennac jedewla pa ikhi wimata velgec ku adogataz vakdazos bofuf jikouke. Upno zuzuco ahnoroci vun ipi nifdo si guzumwa id ikdar gej zifde fepfat fega toz pidirur.",
+    "bio": "Edev wadugi terfes uha wuw dilbal jov dab wopu dizogi liso vu zujanisu poaku foweflel. Duvafu koka wofov zu titboan zobjorni but gajwakof ehnur seg su ziboj zer vizakji ileonora tazagoawi notap. Vocade dos zos juco gabowuh agaikraj vawov ruraj cavufem inegi kicbulci nim gorcu tal tohiz ujiwo iwduj. Sazleloh cun dolabaf hicawku jok vuwuwe ilzocfes aw fosdomub jiuf bogvosaj baeh siiwasoj. Ru guglubib bi kachif vid rifi veajtuw osirip wujvijof fukecuzu gatve ni pevdulkit. Odwos opose pomed puh hedo moz guhiz jubfov zuejiso vat kiegawal ip he ofunozu nioniciw coirbo zora ol."
+  },
+  "apiKey": "a4e611a9bc42dba3542ca6676734ab68b6ced1294321b17e85c9b273aeba141b",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
