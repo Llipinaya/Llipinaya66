@@ -1,0 +1,26 @@
+{
+  "name": "Mable Norris",
+  "age": 36,
+  "address": {
+    "street": "Otece Street",
+    "city": "Molmadi",
+    "state": "MS",
+    "zip": "21954"
+  },
+  "contact": {
+    "phone": "(718) 406-2418",
+    "servicePhone": "800473791"
+  },
+  "birthday": "2003-12-16T12:49:14.677Z",
+  "ip": "15.127.25.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Goc jirri vo teve fobja tela icairhig ogivuz opi fihpih wartesuc elvolad ot gap. Uh hussajgi balap aronot jez gieppij gohid ojeicva usur pievdo ifu wasem. Akewo corehziw ta haw wot achu gompurem ek cewegaz ov ma ce hur. Fipa sidniztoh cevo rotanoh ojsuci gaabe keh rut bi imcah zibik jeb sal les mit re gimup azooh. Ba tilej mutnubimi voud nipfim cutap boge topol uce kacozuj ju soh. Humgot fibefih uw ro weahra meruj wedden uho gen gisew eve ma fugiwve ren haz vi.",
+    "bio": "Kewlajtoj lebjana li tepotnej sa himuzibu dezijtu suwu ekforof lo jug sogweaz lefrobvuf jauc avigesuh. Rimle rupbis kikerepa tiz he pi zulowmir nuasfif jadwi meczimiv zo pad er don. Opemenlo ewu kifotu baemopet susuh doag bugi teddac siklifun dudorgop betno paese fi jejirod gu zifuew lu jogij. Izopuhin vi avba punna mohcud go ovisilap ute oz ohti adocoku voon cohuvad rieg jivucsa. Owse utacel maiztic nudku vobguf tososi nezvikre gihemi il gues we ero kih ka za tutaog buwiton ve."
+  },
+  "apiKey": "512686e1366af80c6e174cf7e84fada9687da013414febb81bf82af37aa3ca92",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
