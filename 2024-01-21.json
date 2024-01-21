@@ -1,0 +1,26 @@
+{
+  "name": "Jose Taylor",
+  "age": 39,
+  "address": {
+    "street": "Omifu Point",
+    "city": "Nejoha",
+    "state": "FL",
+    "zip": "63906"
+  },
+  "contact": {
+    "phone": "(965) 294-4930",
+    "servicePhone": "800478571"
+  },
+  "birthday": "1992-09-29T23:35:36.911Z",
+  "ip": "243.48.59.177",
+  "foo": "bar",
+  "profile": {
+    "about": "Adjal gen sa utemba hegado gopagtu wul vo mi fejkibe hi patnawta sipkigseb momto de uvisedan jahoboak. Udaebe upico pewfidco ozrigci poluj kascug sah pol dallor seg ifguj is vulruhoti zekokil hujleptu. Dorcadub upibuzlo sanlumo omajiku wo roman ozte puvdu fesolpeh du wocjud re ni uku guewa ha.",
+    "bio": "Udigorgo umirakim muknelul ije tihbapi gobopak ifewgud var pumupa facmo rota zat pid jesi cam rojhi fihzu. Gepvit jumesiw polunwak gocdutic ahemapo rafgeobu idu kiihune odhentin zupe lizpahjo zidimkan ze unisic rih fampubbob taalolal netanuz. Gep ke mi lozofes odaro mapel ive jope elzopsu wihoklum japtamil giboko bimiw."
+  },
+  "apiKey": "4544516888ed0d462ff7ed95d8d292da6ef77a4f5a460c8603fec6b3acf3e79f",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
