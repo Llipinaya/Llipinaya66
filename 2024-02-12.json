@@ -1,0 +1,26 @@
+{
+  "name": "Marc Bowen",
+  "age": 56,
+  "address": {
+    "street": "Igehu Drive",
+    "city": "Uwocufi",
+    "state": "NE",
+    "zip": "35616"
+  },
+  "contact": {
+    "phone": "(619) 618-7147",
+    "servicePhone": "800711587"
+  },
+  "birthday": "1979-06-11T02:17:08.376Z",
+  "ip": "99.105.221.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Emumoivu hiro pu ura ruwub laje pihorsa gi etokasev aratmas meza gopize rabranapi gopri. Wov mel lupeho web zibpe gopac ki depel uje vop fawaig kunpurut hejik. Za zil uratusire ejetiblu sun vomlojbos zaule si bef rovah ta dakusih ewoban so heini.",
+    "bio": "Ekoopa sopremolu rumih gu zit uj he jar un hecze tinlockap wo iru kamzud imo zonicon. Di pofacu iju ejlalzuc mojzob gavor nezcuv nekko izifowi sorma gu pofuvde nalaf etbum gi. Seuk ka baso vedveot duaguih kab mahamumo pon le guki losuire wodgi rotiwes jufilfih urudi dihnuhwe. Sawtinij zimlocko bumajfur wipetki zudab okivibaw gavovwe didupe ozaz ukilaf luromogu numonwif geumov gaghozlo pevazvab."
+  },
+  "apiKey": "3220f45e1d6ac8973472c4c4dd97347c791f25a5a8278801445d25ea23871a9d",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
