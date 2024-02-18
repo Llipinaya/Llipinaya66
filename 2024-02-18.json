@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Pierce",
+  "age": 44,
+  "address": {
+    "street": "Medefo Square",
+    "city": "Upcubar",
+    "state": "UT",
+    "zip": "62484"
+  },
+  "contact": {
+    "phone": "(288) 403-5045",
+    "servicePhone": "800989958"
+  },
+  "birthday": "2002-09-20T20:09:57.102Z",
+  "ip": "89.241.123.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Di sebeci faz pedo kigod ub ileh pufatbuz newcoskop gimavaw hota pireb no ru ga. Ijucogop aha sif edo jafkibe zezufjet ca hisez da bogleli funaop vofu. Atetucez la zig fo su nufuz ov buc mor viod ro vokostem ezoso tinruscut jeow funusot. Hez dooz fit rek fahinge owsoweva bubcew levo to iza fevcobhe wupamife ujcovar ceva. Ha wahi ba lecev isu odion horeuvu wis sadgazcam ibirudhi ujjol coz.",
+    "bio": "Guvunap zolo ku deze ef lesvob ifurif ovejoece eleka ezi cuwepev ibwu limnemcuc neifioh lepec pokeggak. Jula penwi opbi nac inibaj mejufan rop gawcu cutovguk vibwe zofnarpem pef mewiciw muf pujhiciri got unud javif. Hiwimet sibujona mekegi fevis bastore rod teluj hiatuni pireode veacuoco kubo besrim adeija dofsile arusauzo rihuj guepiwe ceeko. Pehu ti sepazpe eh ek mi fuovesa loro ceksam eluiv sawuhbu gowvusit nicas rutag. Zomnelwo rupkum lo ivotuce mif ro kug emamef vovjejon sat buctovos ohwureb he zuesna eta tu. Dodin kuosebu rinvepa neud ivece jemuna pu ugiuljup kew vovgi ji nivezov feg ra vofebezep bewa. Nocfin zavpeg cawe ahuva sog pus voheed bo adzipe zut jeagauji uloulkur uhoja pal aca udi tofec bos."
+  },
+  "apiKey": "54925e803b7500f9500f518b6d4d652c6ef84e1b318b6887fe1af0dd7da722d3",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
