@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Peters",
+  "age": 65,
+  "address": {
+    "street": "Atpi Avenue",
+    "city": "Zokpeole",
+    "state": "TX",
+    "zip": "40405"
+  },
+  "contact": {
+    "phone": "(459) 720-1380",
+    "servicePhone": "800482577"
+  },
+  "birthday": "1974-04-07T06:38:31.991Z",
+  "ip": "183.112.58.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Ilok ti orefof damed batutos dag aliv zite uf god ofedu ze guvde bozilo podisot beakwu kodebuli. Sewpa ede paz guppe hu ros ubi ef saf uhihu zevimi zoharod rurlup. Hazzoci teguz leil oje no ab poujja hoja fa judet dus fime famuso ane gade kemahem jiz.",
+    "bio": "Ov levujgu asris ho isievo dev laltoc medo izo harse emsabga pupzu minahel sulesoki vofifo. Rebudki unosib jav vera cov ig hegfiese zimcera dumi ruvul coc somwaku sudgazo. Zu vazma sowici he leene zubjurup tanper harsan habut tujunari zisga nejgavzu padaf bajevkuj tocka kedmisci zihsimod he. Fefafvut jovatgi giuw er haulora udno vo uhudob mooheanu hicfofwet cojhuche ceim nur vudgoluwu gevohte ono muv wipehzi."
+  },
+  "apiKey": "af379c12c67106a31980a90dc19bce4f95efa9251d5c9e3da68c47d2344100b2",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
