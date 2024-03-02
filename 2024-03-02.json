@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Ross",
+  "age": 26,
+  "address": {
+    "street": "Gelco Drive",
+    "city": "Fajalev",
+    "state": "CT",
+    "zip": "40705"
+  },
+  "contact": {
+    "phone": "(929) 785-9658",
+    "servicePhone": "800616633"
+  },
+  "birthday": "1961-04-30T08:26:11.244Z",
+  "ip": "103.14.23.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Wem jic hirop pikebu abalor pu dipez afnene aviudi lo hodos vowjelam tuugiul zeug raro fotave hotutu jejdiliz. Putmefo rospepip ju og pejjepof sihhu wo omasu kig pa gusred wa ledik vo bekofi ono. Narnumuz eb kavbarezu ad biabomi iw kul ivokarso ejavan hig emji afaari heghe. Halum hic ecac pouv wulhu igmof ij cogka pafeczun wed laaz miwod on idikehe nuhka fices loz. Ado jogec beumiujo bo ahnisfu lucablo fov me ro za ez wasuptuh pe. Duesiha da rupjikwe he utlo lankiacu codiltel rad hotonu zeufi ufaori bin ukisi fuvu. Wi pojihha lobo rav jo niramawi ibi bap dew hazuv zurra nuvipke ifime gaizi mi wem wewivdan.",
+    "bio": "Se baguja ufipevi sigkubni ede ihziwige noigi lirefra imukilti nusivrub egicu vaz ecitu hod hezulda og vurihfo. Ti pollusido lu kulmol caarasap mel asnipmu edawi fozaihe pudwuf neravowu ogikeohu orlaube baw me kolapika vizac vocrucfi. Pu tustumu agfu fezzulka utawabe aghabuto zolulep kokduc so pe nueheef sewanvid wilegka hepak. Siligba je awtoh uwo pekmub wudam op tehbi mis jet uniepifo voh tocili horwec jihovma raf ibsisut umwu. Ukpi an cu fo tebod ci edearsuh kodi lo dus dazuci gepreb. Upe de bukerag oja ha culbow ma zauzalu dokipubu jivabkib rigfugsul vi netazre powiwnoc."
+  },
+  "apiKey": "59a8ec6fe39239749716849fac483ca3a8032941f2f5e436a4af80341c1339d0",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
