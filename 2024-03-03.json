@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Wood",
+  "age": 59,
+  "address": {
+    "street": "Rijo River",
+    "city": "Ambituj",
+    "state": "MT",
+    "zip": "79633"
+  },
+  "contact": {
+    "phone": "(677) 355-5699",
+    "servicePhone": "800256364"
+  },
+  "birthday": "1982-07-05T15:18:22.138Z",
+  "ip": "128.63.11.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Utatefnu emo kiulib gukrugef kojbiek vosa gu mi sekafmuv beivkib kokjo ib zise wivhe nac li dabpic aze. Zuvo vukcas tegicaw gak asadejkop emowore duzu efagapo fowdib dizkege tid zub pocibigem kop powraeno zi kekidu gunit. Dur hulzapfav ponati ecame pucru cu ecara if ulitubek hub zavdawwal ni.",
+    "bio": "Lu hohojac ote uk guotcon jiwu wow ko ahomu ju guziz tisahsog wedpen fa diku. Ovmeb iweijac vizuvedu alhener lov zamsu doipe fizuwfip akatoduj bokalo ehi magate im kazi taz cirodvo magovew nafohlu. Maphuvpav emeab acisol gofbu fitli onopo pukto bebofsu mitaid utolu kivtofoh lade kikodepik ivgul sod duad uzitoval."
+  },
+  "apiKey": "827de7d328cb5c8184a5e0609b56419a2be9f0d3f9e808f9a590c62a5ddeb807",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
