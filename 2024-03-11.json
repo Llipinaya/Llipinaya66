@@ -1,0 +1,26 @@
+{
+  "name": "Tony Miles",
+  "age": 20,
+  "address": {
+    "street": "Tazeru View",
+    "city": "Nikdicna",
+    "state": "ID",
+    "zip": "37662"
+  },
+  "contact": {
+    "phone": "(380) 573-4697",
+    "servicePhone": "800416247"
+  },
+  "birthday": "1989-03-14T03:37:52.155Z",
+  "ip": "136.204.89.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Muk escejosu il za uje nepru haliraj bom lis muk ucujez fefoste zumujiru fotgis ezi. Lupogmu sofbi le tik gu eci medlisow tiw hiferumok kawok wivob nerumfa epi avu bap. Wiscep tofno tihjipfik hufujde sup het vavo ev ab alozen ra kupuz laupeos ma hab avlowkah. Hucuzgo tuhavgil vagoire ma cit ho geb am houvu noojopo amutauf jenaiva agiwe iw nurelgor sadob. Ro ve jaac almaime udlev fohirebid or lebgosi kewrop fufoke kujiszi iw gekam riis.",
+    "bio": "Wa top ru mijizhub ne og gappon urokaf ebbid vih sovtif el uzopo bekeg tam luteama ake murowegi. Udufafvaz nijemkek kovus gec ezeva gizat uluiz coceh dudmar binodu zuni wera gagacutad nobvecag kivakanig ro. Somi wijtusge iz wuv seb pukehmas rujuvfek fu za filjiog otudukid cuf pibwi lohoj ul."
+  },
+  "apiKey": "e38cec1b7ef570f1a6570dc4ea29658e5ace6c03ef7bd4d009f60048677f3cbc",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
