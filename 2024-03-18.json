@@ -1,0 +1,26 @@
+{
+  "name": "Rebecca Morgan",
+  "age": 53,
+  "address": {
+    "street": "Elgun Terrace",
+    "city": "Ijsocmin",
+    "state": "IN",
+    "zip": "65101"
+  },
+  "contact": {
+    "phone": "(433) 598-3967",
+    "servicePhone": "800462682"
+  },
+  "birthday": "2003-02-01T11:47:54.558Z",
+  "ip": "46.130.55.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Luwa tatu jo tihvuma bapgi kuto pipooha reuli uje ticavuuk jumus pob dem lagrod. Suvvarla baggom jic zop dufpaddit pejizu dovegko cafec ivubofa nugo hapohud zebazowa hubuhzuf. Keperzat ukasien uwa zawuro radic adra wuznar feliri lidewik reruw be fale mol ri. Zububefe sidir an tiwu ro juji didjar dikluwup bovuf va nod de reli ci hugruzwo keog tovjetuw.",
+    "bio": "Par ul wukhut bijaplet neclabo jab guhwo bobwuden aggil so johois jo ip lissu. Minre cefeuju zaihufu tanef bijso hab wu duowedin izudus kidig hoho vuj no el zi vitopo laka ojimuzez. Oru ele usozom co ci gomsozimo zitandig feij fid daidetec iso ocesoj kon kuguk ozengep rersoped ubi zikocsu."
+  },
+  "apiKey": "e8b49b612bd21507b6b3a6a0675983006d53ccd53fec669ac04fc3200c9e15aa",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
