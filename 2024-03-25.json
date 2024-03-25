@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Young",
+  "age": 34,
+  "address": {
+    "street": "Wufin Ridge",
+    "city": "Pocdive",
+    "state": "VA",
+    "zip": "51445"
+  },
+  "contact": {
+    "phone": "(860) 318-1959",
+    "servicePhone": "800782652"
+  },
+  "birthday": "1959-05-05T22:31:15.632Z",
+  "ip": "89.119.253.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Finnu heh dapa bodirtub ocite rajojnok ih peekne henwamas iso kekjul mulcotoze ja kezamic nuhonuw da. Kugjuj mev be wewudadu hi li vuruhap um aci huwgeldo ohicen madtuhfen dob momap apoom zihe ipofewwom. Urocuh suk zerlu je nenirjup fujef nocuno miza viigehe lel ba fommib lodli huhku zumzi. Oreped zihbarlet tufgo ofta zuzre wukotsih ja neb perlul neh tadomoda donlalfu jacerpe.",
+    "bio": "Bedevim obihunvi tav pado bofhiihi lan jingi noej rune numemiiti fas fujlef nizi uvahu kiwoceg mo atbit eb. Gipo wah arabawah ve ve tug kuv tijodo li zecgiwak pafikpo us refuprid jifwo jitdazi gomiketam zibi. Dassehpud da ududeldap ruhomud ba ijaapojap gut vooci kuopnor sodehu geherpe ihtez bo wogijje powiv pe. Tizuwji hefkelbez motoba ri okotaja edujirrew kevuha recvi wu nehwuzsoc ubekwo lipkedi evjelab ephib jan. Dolsad asihis ehbon tebsevpeb zicihazuc muwiv wuzho bibuzo fojbemaw weohiam jower becuj lurtikoc teet opmucpew daas jo tawowu."
+  },
+  "apiKey": "cc92e4acecb7de8e97f2037ffca53a3a15d710191a393f973f7d3e4ffb68f3c0",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
