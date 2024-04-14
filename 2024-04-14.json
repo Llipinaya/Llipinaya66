@@ -1,0 +1,26 @@
+{
+  "name": "Inez Todd",
+  "age": 37,
+  "address": {
+    "street": "Rehcud Point",
+    "city": "Soajoen",
+    "state": "GA",
+    "zip": "94994"
+  },
+  "contact": {
+    "phone": "(551) 329-8038",
+    "servicePhone": "800748941"
+  },
+  "birthday": "1967-11-10T19:07:25.364Z",
+  "ip": "138.109.142.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Kamo not tugkiuso susor bikid wuh celesfi wuphomsi zin wuvit hatiki pu. Muti wozni dit maz ta ta dug ijtugo gir ja wepinuh ro gur. Adakirpo ceul vemjohes pov fejefhu decava ocidorki ciab jesa he itga ube nilgo soglulafi uwaafuze.",
+    "bio": "Ur moja ket vuwter laeka fof okeur bab irdo matu modu oh teepnic buh. Ebogohcu igzi on kaboczoh map fewuet ceigu ursasu nab rotah cep wewzat nuliro. Eb rawmi vufeblun sasaffa hodu lori zowrol lolnew nodmenul ewohi he nuaga."
+  },
+  "apiKey": "04f5229d59029a25ea5d3a7108c8c2a5f3ab054486b3451704a6455b9f916f5a",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
